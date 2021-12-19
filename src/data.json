@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "productTitle": "Amoralman",
+        "description": "Amoralman by Derek Delgaudio; design by John Gall (Knopf / March 2021)",
+        "imageUrl": "https://i0.wp.com/www.casualoptimist.com/wp-content/uploads/2021/03/amoralman-design-john-gall.jpg",
+        "likes": 5
+    },
+    {
+        "id": 2,
+        "productTitle": "After the Sun",
+        "description": "After the Sun by Jonas Eika; design by Lauren Peters-Collaer; art by Dorian Legret (Riverhead / August 2021)",
+        "imageUrl": "https://i0.wp.com/www.casualoptimist.com/wp-content/uploads/2021/08/after-the-sun-design-lauren-peters-collaer.jpg?w=1200",
+        "likes": 6
+    }
+
+] 
