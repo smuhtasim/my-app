@@ -4,14 +4,28 @@
         "productTitle": "Amoralman",
         "description": "Amoralman by Derek Delgaudio; design by John Gall (Knopf / March 2021)",
         "imageUrl": "https://i0.wp.com/www.casualoptimist.com/wp-content/uploads/2021/03/amoralman-design-john-gall.jpg",
-        "likes": 5
+        "likes": 37
     },
     {
         "id": 2,
         "productTitle": "After the Sun",
         "description": "After the Sun by Jonas Eika; design by Lauren Peters-Collaer; art by Dorian Legret (Riverhead / August 2021)",
         "imageUrl": "https://i0.wp.com/www.casualoptimist.com/wp-content/uploads/2021/08/after-the-sun-design-lauren-peters-collaer.jpg?w=1200",
-        "likes": 6
+        "likes": 34
+    },
+    {
+        "id": 3,
+        "productTitle": "The Republic of False Truths",
+        "description": "The Republic of False Truths by Alaa Al Aswany; design John Gall (Knopf / August 2021)",
+        "imageUrl": "https://i1.wp.com/www.casualoptimist.com/wp-content/uploads/2021/08/republic-of-false-truths-design-john-gall.jpg?resize=1401%2C2048",
+        "likes": 19
+    },
+    {
+        "id": 4,
+        "productTitle": "Klara and the Sun",
+        "description": "Klara and the Sun by Kazuo Ishiguro; design John Gall (Knopf / March 2021)",
+        "imageUrl": "https://i2.wp.com/www.casualoptimist.com/wp-content/uploads/2021/11/klara-and-the-sun-design-john-gall.jpg?resize=1347%2C2048",
+        "likes": 16
     }
 
 ] 
